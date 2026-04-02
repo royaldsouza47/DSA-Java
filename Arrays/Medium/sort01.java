@@ -1,0 +1,30 @@
+public class sort01 {
+
+   public static void single(int[] nums){
+    int low=0;
+    int mid=0;
+    int high=nums.length-1;
+    while(mid<=high){
+        if(nums[mid]==0){
+            int temp=nums[low];
+            nums[low]=nums[mid];
+            nums[mid]=temp;
+            low++;
+            mid++;
+        }else if(nums[mid]==1){
+            mid++;
+        }else{
+            int temp=nums[high];
+            nums[high]=nums[mid];
+            nums[mid]=temp;
+            high--;
+        }
+    }
+   }
+    public static void main(String[] args) {
+        int[] nums={1,1,2,2,0,0};
+        single(nums);
+        for(int num:nums)
+            System.out.print(num+ " ");
+    }
+}
