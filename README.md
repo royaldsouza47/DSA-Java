@@ -19,7 +19,7 @@ LinkedIn: https://www.linkedin.com/in/royalton-d-souza-7b315b365/
 | Topic | Status | Problems Solved |
 |---|---|---|
 | Arrays | Completed | 25 |
-| Strings | In Progress | 15 |
+| Strings | In Progress | 16|
 | Recursion | Up Next | 0 |
 | Binary Search | Upcoming | 0 |
 | Linked List | Upcoming | 0 |
