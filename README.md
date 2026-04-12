@@ -3,12 +3,12 @@
 This repository is a structured record of my Data Structures and Algorithms 
 preparation in Java, following Striver's SDE Sheet. Every problem here is 
 solved from scratch, written independently, and understood deeply before 
-moving on. No copied solutions, no shortcuts.
+moving on. Here I am trying to expand my thinking capacity as I move forward.
 
 I am Royalton D'Souza, an Electronics and Communication Engineering student 
 based in Bangalore, actively transitioning into Software Engineering. This 
 repo is my daily commitment to becoming a stronger problem solver and 
-building the skills needed to crack product-based company interviews.
+building the skills needed to crack interviews.
 
 LinkedIn: https://www.linkedin.com/in/royalton-d-souza-7b315b365/
 
