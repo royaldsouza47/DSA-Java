@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CombinationSum {
+public class combinationsum{
 
     public static List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> result = new ArrayList<>();
